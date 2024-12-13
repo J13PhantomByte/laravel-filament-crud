@@ -29,9 +29,10 @@ My learning results, in my spare time.
 Cara menggunakannya : 
 1. masukkan database ke local
 2. masukkan nama database di .env | -> ganti .env.example menjadi .env
-3. coba jalankan laravelnya menggunakan perintah -    php artisan serve
-4. coba jalankan menggunakan http://127.0.0.1:8000/admin
-5. jika disuruh login gunakan username dan password ini
+3. coba jalankan perintah ini terlebih dahulu -> composer install
+4. coba jalankan laravelnya menggunakan perintah -> php artisan serve
+5. coba jalankan menggunakan http://127.0.0.1:8000/admin
+6. jika disuruh login gunakan username dan password ini
 
 -    Name : Juan
 -    Email : siapaaakuu05@gmail.com
